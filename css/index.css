@@ -1,21 +1,21 @@
 .version.index /* version checker */
 {
-	color: #000015;
-	background-color: #4473C6;
+	color: #00001E;
+	background-color: #501FE7;
 }
 
 #page
 {
 	z-index: 1;
 	width: 803px;
-	min-height: 397px;
+	min-height: 352px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
 	background-color: transparent;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 35px 184px 68px 183px;
+	padding: 35px 184px 113px 183px;
 }
 
 #u94-4
@@ -50,10 +50,10 @@
 	background-color: transparent;
 	max-width: 2000px;
 	min-width: 300px;
-	margin-bottom: -6px;
+	margin-bottom: -51px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: -6px;
+	margin-top: 39px;
 	left: 241px;
 }
 
